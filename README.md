@@ -1,0 +1,2 @@
+# Deep_Learning_Computer_Vision
+A basic convolutional neural network, trained on images to detect the classes of an image. The code is built using Keras, and numpy. This is intended to be an example of using Keras for computer vision, and implementing CNN, an actual production model could include a larger training dataset, more layers, and be trained on a larger image sizes (ex. 128x128). The code will need to be altered to use a GPU for the training, this is built to run on CPU. 

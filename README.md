@@ -1,4 +1,4 @@
-# Deep Learning_Computer Vision
+# Deep Learning Computer Vision
 > A basic convolutional neural network, trained on images to detect the classes of an image. The code is built using Keras, and numpy
 
 ### To train the model:
